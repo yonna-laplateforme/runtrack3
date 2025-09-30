@@ -11,11 +11,9 @@
 
 
 
+    <footer></footer>
+
     <script src="script.js"></script>
-
 </body>
-<footer class="foot" id="foot">
-
-</footer>
 
 </html>
