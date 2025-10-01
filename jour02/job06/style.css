@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: white;
+  color: black;
+  transition: all 0.5s ease;
+}
+
+.laBase {
+  text-align: center;
+}
+
+.la-plateforme {
+  font-weight: bold;
+}
+
+body.konami-active {
+  background-color: #0163FF;
+  color: white;
+}
+
+body.konami-active .la-plateforme {
+  color: #fafafa;
+}
+
+body.konami-active .laBase{
+  visibility: hidden;
+}
+
+
