@@ -1,0 +1,14 @@
+#container-img{
+  display: flex;
+}
+ 
+#container-img img{
+  margin-right: 10px;
+}
+
+#resultat{
+  border: 1px solid black;
+  width: 850px;
+  height: 400px;
+  display: flex;
+}
